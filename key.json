@@ -17,15 +17,6 @@
       "status": "active",
       "created_date": "2025-10-28",
       "max_devices": 1
-    },
-    {
-      "key": "TEST-0000-DEMO-1111",
-      "device_id": "",
-      "expiry_date": "2025-12-31",
-      "active": false,
-      "status": "inactive",
-      "created_date": "2025-10-28",
-      "max_devices": 1
     }
   ]
 }
