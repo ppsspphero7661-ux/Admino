@@ -8,6 +8,15 @@
       "status": "",
       "created_date": "2025-10-28",
       "max_devices": 1
+    },
+    {
+      "key": "",
+      "device_id": "",
+      "expiry_date": "",
+      "active": true,
+      "status": "",
+      "created_date": "",
+      "max_devices": null
     }
   ]
 }
