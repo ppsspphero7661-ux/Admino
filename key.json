@@ -1,3 +1,13 @@
 {
-  "licenses": []
+  "licenses": [
+    {
+      "key": "6",
+      "device_id": "484",
+      "expiry_date": "2025-10-28",
+      "active": true,
+      "status": "",
+      "created_date": "2025-10-28",
+      "max_devices": 1
+    }
+  ]
 }
