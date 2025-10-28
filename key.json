@@ -8,15 +8,6 @@
       "status": "active",
       "created_date": "2025-10-28",
       "max_devices": 1
-    },
-    {
-      "key": "alpha@123",
-      "device_id": "b0f4640d-4dc6-4cdd-a543-cc2a0577f33a",
-      "expiry_date": "2025-12-30",
-      "active": true,
-      "status": "active",
-      "created_date": "2025-10-28",
-      "max_devices": 1
     }
   ]
 }
