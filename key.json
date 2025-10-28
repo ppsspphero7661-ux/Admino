@@ -14,7 +14,7 @@
       "device_id": "6df2fdc7a184c04e",
       "expiry_date": "2025-10-29",
       "active": true,
-      "status": "",
+      "status": "active",
       "created_date": "2025-10-28",
       "max_devices": 1
     }
